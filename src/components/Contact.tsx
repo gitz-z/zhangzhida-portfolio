@@ -11,31 +11,31 @@ function Contact() {
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
           <div className="social_icons">
-            <a href="https://github.com/jungsek" target="_blank" rel="noreferrer" className="social-link">
+            <a href="https://github.com/gitz-z" target="_blank" rel="noreferrer" className="social-link">
               <GitHubIcon className="icon" /> 
-              <span>jungsek</span>
+              <span>gitz-z</span>
             </a>
-            <a href="https://www.linkedin.com/in/jungsek1234/" target="_blank" rel="noreferrer" className="social-link">
+            <a href="https://www.linkedin.com/in/zzd/" target="_blank" rel="noreferrer" className="social-link">
               <LinkedInIcon className="icon" />
-              <span>Lee Jung Sek</span>
+              <span>Zhang Zhida</span>
             </a>
-            <a href="mailto:jungsek1704@gmail.com" className="social-link">
+            <a href="mailto:zhangzhida011@gmail.com" className="social-link">
               <EmailIcon className="icon" />
-              <span>jungsek1704@gmail.com</span>
+              <span>zhangzhida011@gmail.com</span>
             </a>
           </div>
           <div className="mobile_social_icons">
-            <a href="https://github.com/jungsek" target="_blank" rel="noreferrer" className="social-link">
+            <a href="https://github.com/gitz-z" target="_blank" rel="noreferrer" className="social-link">
               <GitHubIcon className="icon" /> 
-              <span>jungsek</span>
+              <span>gitz-z</span>
             </a>
-            <a href="https://www.linkedin.com/in/jungsek1234/" target="_blank" rel="noreferrer" className="social-link">
+            <a href="https://www.linkedin.com/in/zzd/" target="_blank" rel="noreferrer" className="social-link">
               <LinkedInIcon className="icon" />
-              <span>Lee Jung Sek</span>
+              <span>Zhang Zhida</span>
             </a>
-            <a href="mailto:jungsek1704@gmail.com" className="social-link">
+            <a href="mailto:zhangzhida011@gmail.com" className="social-link">
               <EmailIcon className="icon" />
-              <span>jungsek1704@gmail.com</span>
+              <span>zhangzhida011@gmail.com</span>
             </a>
           </div>
         </div>
